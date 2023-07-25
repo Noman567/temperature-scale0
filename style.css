@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+h1{
+    /* display: flex; */
+    text-align: center;
+    padding: 10px 100px;
+}
+
+.input{
+  display: inline-block;
+  margin: 50px;
+}
+.input_2{
+    display: inline-block;
+    margin: 50px;
+}
+#container{
+    text-align: center;
+    background:transparent;
+    padding: 50px 50px;
+    margin: 100px 250px;
+    background-image: url("./img/thermometer-readings.jpg");
+    background-size: contain;
+    
+}
+.inp{
+    padding: 5px 10px;
+    margin: 10px 10px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 200px;
+    text-align: center;
+}
+.label{
+    font-size: 30px;
+    font-weight: bold;
+}
